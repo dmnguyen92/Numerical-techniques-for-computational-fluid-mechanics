@@ -1,5 +1,5 @@
-# PAP-751-Assignments 
+# Numerical techniques for computational fluid mechanics
 
-This is my assignment works for course "Numerical technique for computational fluid mechanics" taught in Nanyang Technological University, Semester 1, Academic year 2015-2016.
+This is my assignment works for course **PAP751 - Numerical technique for computational fluid mechanics**, provided by Nanyang Technological University, Semester 1, Academic year 2015-2016.
 
-Some of the assignment works is uploaded in the [course's website](http://cav2012.sg/cdohl/CFD_course/index.html) 
+Some of my assignment works were uploaded in the [course's website](http://cav2012.sg/cdohl/CFD_course/index.html) 
